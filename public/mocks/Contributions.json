@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Contribución Urbana",
+    "description": "Pago anual por servicios urbanos",
+    "propertiesCount": 42,
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "name": "Impuesto Predial",
+    "description": "Impuesto sobre la propiedad inmobiliaria",
+    "propertiesCount": 72,
+    "status": "searched"
+  },
+  {
+    "id": 3,
+    "name": "Recolección de Basura",
+    "description": "Cuota mensual por recolección de residuos sólidos",
+    "propertiesCount": 13,
+    "status": "paid"
+  },
+  {
+    "id": 4,
+    "name": "Mantenimiento de Áreas Verdes",
+    "description": "Aporte para el mantenimiento de parques y jardines",
+    "propertiesCount": 12,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "name": "Alumbrado Público",
+    "description": "Contribución para el alumbrado de calles y avenidas",
+    "propertiesCount": 978,
+    "status": "searched"
+  },
+  {
+    "id": 6,
+    "name": "Agua Potable",
+    "description": "Pago por el suministro de agua potable",
+    "propertiesCount": 123,
+    "status": "paid"
+  },
+  {
+    "id": 7,
+    "name": "Drenaje",
+    "description": "Cuota por el servicio de drenaje y alcantarillado",
+    "propertiesCount": 4,
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "name": "Pavimentación",
+    "description": "Aporte para obras de pavimentación",
+    "propertiesCount": 12,
+    "status": "searched"
+  },
+  {
+    "id": 9,
+    "name": "Licencia de Funcionamiento",
+    "description": "Pago anual para operar un negocio",
+    "propertiesCount": 65,
+    "status": "paid"
+  },
+  {
+    "id": 10,
+    "name": "Protección Civil",
+    "description": "Contribución para servicios de emergencia y protección civil",
+    "propertiesCount": 12,
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "name": "Impuesto de Espectáculos",
+    "description": "Pago por la organización de eventos públicos",
+    "propertiesCount": 65,
+    "status": "searched"
+  },
+  {
+    "id": 12,
+    "name": "Permiso de Construcción",
+    "description": "Cuota para obtener permiso de construcción",
+    "propertiesCount": 3,
+    "status": "paid"
+  },
+  {
+    "id": 13,
+    "name": "Revalidación de Licencia",
+    "description": "Pago para revalidar licencias municipales",
+    "propertiesCount": 5,
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "name": "Impuesto Sobre Nómina",
+    "description": "Contribución por el pago de nómina a empleados",
+    "propertiesCount": 15,
+    "status": "searched"
+  },
+  {
+    "id": 15,
+    "name": "Derechos de Mercado",
+    "description": "Pago por uso de espacios en mercados públicos",
+    "propertiesCount": 97,
+    "status": "paid"
+  },
+  {
+    "id": 16,
+    "name": "Registro de Propiedad",
+    "description": "Cuota por registrar una propiedad",
+    "propertiesCount": 25,
+    "status": "pending"
+  },
+  {
+    "id": 17,
+    "name": "Certificado de No Adeudo",
+    "description": "Pago para obtener certificado de no adeudo municipal",
+    "propertiesCount": 1,
+    "status": "searched"
+  },
+  {
+    "id": 18,
+    "name": "Permiso de Anuncios",
+    "description": "Cuota para colocar anuncios publicitarios",
+    "propertiesCount": 1,
+    "status": "paid"
+  },
+  {
+    "id": 19,
+    "name": "Revisión de Planos",
+    "description": "Pago por revisión de planos arquitectónicos",
+    "propertiesCount": 2,
+    "status": "pending"
+  },
+  {
+    "id": 20,
+    "name": "Impuesto de Hospedaje",
+    "description": "Contribución por servicios de hospedaje",
+    "propertiesCount": 1,
+    "status": "searched"
+  },
+  {
+    "id": 21,
+    "name": "Licencia de Alcohol",
+    "description": "Pago anual para venta de bebidas alcohólicas",
+    "propertiesCount": 1,
+    "status": "paid"
+  },
+  {
+    "id": 22,
+    "name": "Permiso de Uso de Suelo",
+    "description": "Cuota para cambio de uso de suelo",
+    "propertiesCount": 2,
+    "status": "pending"
+  },
+  {
+    "id": 23,
+    "name": "Impuesto de Publicidad",
+    "description": "Pago por publicidad en espacios públicos",
+    "propertiesCount": 1,
+    "status": "searched"
+  },
+  {
+    "id": 24,
+    "name": "Refrendo de Permiso",
+    "description": "Pago para refrendar permisos municipales",
+    "propertiesCount": 1,
+    "status": "paid"
+  },
+  {
+    "id": 25,
+    "name": "Inspección Sanitaria",
+    "description": "Cuota por inspección de establecimientos",
+    "propertiesCount": 2,
+    "status": "pending"
+  },
+  {
+    "id": 26,
+    "name": "Impuesto de Espectaculares",
+    "description": "Pago por anuncios espectaculares",
+    "propertiesCount": 1,
+    "status": "searched"
+  },
+  {
+    "id": 27,
+    "name": "Permiso de Carga y Descarga",
+    "description": "Cuota para actividades de carga y descarga",
+    "propertiesCount": 1,
+    "status": "paid"
+  },
+  {
+    "id": 28,
+    "name": "Certificado de Zonificación",
+    "description": "Pago para obtener certificado de zonificación",
+    "propertiesCount": 2,
+    "status": "pending"
+  },
+  {
+    "id": 29,
+    "name": "Impuesto de Juegos y Sorteos",
+    "description": "Contribución por organización de juegos y sorteos",
+    "propertiesCount": 1,
+    "status": "searched"
+  },
+  {
+    "id": 30,
+    "name": "Permiso de Ambulante",
+    "description": "Cuota para venta ambulante en la vía pública",
+    "propertiesCount": 1,
+    "status": "paid"
+  }
+]
